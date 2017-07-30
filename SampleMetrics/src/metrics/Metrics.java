@@ -110,7 +110,7 @@ public class Metrics {
 
 			pairsCount++;
 
-//			System.out.println("lists: " + pairsCount);
+			System.out.println("lists: " + pairsCount);
 
 			try {
 				queue.put(pairs);
